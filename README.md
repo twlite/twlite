@@ -1,8 +1,7 @@
 # 💫 About Me:
-I am a college student and a developer. I also like music and some video games.<br>I am not really a fan of real-life activities. Most of the times, I stay indoors.<br>I am an introvert.
+I am a college student and a developer. I also like music and some video games. I am not really a fan of real-life activities. Most of the times, I stay indoors. I am an introvert.
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/916316955772862475) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/skdhgdev) 
 
 # 💻 Tech Stack:
@@ -12,10 +11,5 @@ I am a college student and a developer. I also like music and some video games.<
 ![](https://github-readme-streak-stats.herokuapp.com/?user=skdhg&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skdhg&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=skdhgdev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=skdhg&icon=7&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=skdhg&icon=7&color=2)
