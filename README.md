@@ -1,6 +1,6 @@
 # 🚀 About
 
-Personally, I am an uninteresting person. You can call me `Arch` while talking.
+I am not interesting enough in person. You can call me `Arch` while talking.
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/916316955772862475)
