@@ -14,7 +14,7 @@ And there's more where that came from!
 
 # 🌐 Connect with Me
 
-You can find me on social media:
+You can email me at hello@twlite.dev or contact me below:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/916316955772862475)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hellotwlite) 
