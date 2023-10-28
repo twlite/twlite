@@ -12,6 +12,10 @@ Some of my notable side projects include:
 
 And there's more where that came from!
 
+# Show Your Support
+
+Consider supporting my work by becoming a member: [patreon.com/twlite](https://www.patreon.com/Twlite)
+
 # 🌐 Connect with Me
 
 You can email me at hello@twlite.dev or contact me below:
