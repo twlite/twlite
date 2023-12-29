@@ -14,7 +14,12 @@ And there's more where that came from!
 
 # Show Your Support
 
-Consider supporting my work by becoming a member: [patreon.com/twlite](https://www.patreon.com/Twlite)
+Consider supporting my work by becoming a member
+
+<a href="https://patreon.com/Twlite"><img src="https://github.com/twlite/twlite/assets/46562212/2830cbd7-8e0f-41c5-9539-a4a938c7658e" width="150" /></a>
+
+<a href="https://buymeacoffee.com/twlite"><img src="https://github.com/twlite/twlite/assets/46562212/439e1dc9-30b4-4c2d-ba78-12b3350f4330" width="150" /></a>
+
 
 # 🌐 Connect with Me
 
