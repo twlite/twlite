@@ -16,9 +16,7 @@ And there's more where that came from!
 
 Consider supporting my work by becoming a member
 
-<a href="https://patreon.com/Twlite"><img src="https://github.com/twlite/twlite/assets/46562212/2830cbd7-8e0f-41c5-9539-a4a938c7658e" width="150" /></a>
-
-<a href="https://buymeacoffee.com/twlite"><img src="https://github.com/twlite/twlite/assets/46562212/439e1dc9-30b4-4c2d-ba78-12b3350f4330" width="150" /></a>
+<a href="https://www.buymeacoffee.com/twlite"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="200" height="50"></a> <a href="https://www.patreon.com/twlite"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron!" width="200" height="50"></a>
 
 
 # 🌐 Connect with Me
