@@ -4,7 +4,8 @@ Hey there! I'm Twilight, and I'm a developer with a passion for creating innovat
 By profession, I work as a fullstack developer, but my true passion lies in crafting frameworks and tools right here on GitHub.
 
 Some of my notable side projects include:
-
+- [Yasumu](https://github.com/yasumu-org/yasumu): An open source api testing platform for humans.
+- [Tanxium](https://github.com/yasumu-org/tanxium): Embeddable JavaScript/TypeScript runtime for Yasumu.
 - [discord-player](https://discord-player.js.org): A robust framework for building Discord music bots.
 - [canvacord](https://canvacord.js.org): A creative framework centered around the concept of image manipulation.
 - [mediaplex](https://github.com/androzdev/mediaplex): A simple media transcoding utility for Node.js.
