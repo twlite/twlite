@@ -1,32 +1,30 @@
-# 👋 About Me
+# 👋 Hey, I'm Twilight  
 
-Hey there! I'm Twilight, and I'm a developer with a passion for creating innovative tools and frameworks.
-By profession, I work as a fullstack developer, but my true passion lies in crafting frameworks and tools right here on GitHub.
+I'm a developer from Nepal who enjoys building random projects—some useful, some just for fun. Here are a few popular ones I maintain:  
 
-Some of my notable side projects include:
-- [Yasumu](https://github.com/yasumu-org/yasumu): An open source api testing platform for humans.
-- [Tanxium](https://github.com/yasumu-org/tanxium): Embeddable JavaScript/TypeScript runtime for Yasumu.
-- [discord-player](https://discord-player.js.org): A robust framework for building Discord music bots.
-- [canvacord](https://canvacord.js.org): A creative framework centered around the concept of image manipulation.
-- [mediaplex](https://github.com/androzdev/mediaplex): A simple media transcoding utility for Node.js.
-- [youtube-sr](https://github.com/twlite/youtube-sr): A dead-simple YouTube metadata scraper.
+| S.N.| Project | Description | Links |  
+|---|---------|--------| ----- |  
+| 1. | **Discord Player** | A powerful framework for building advanced Discord music bots. | [`GitHub`](https://github.com/androz2091/discord-player) • [`npm`](https://npm.im/discord-player) • [`Website`](https://discord-player.js.org) |  
+| 2. | **Canvacord** | A framework for generating images with JSX-like syntax. | [`GitHub`](https://github.com/neplextech/canvacord) • [`npm`](https://npm.im/canvacord) • [`Website`](https://canvacord.neplex.dev) |  
+| 3. | **CommandKit** | 🚀 Next-gen framework for building Discord bots with discord.js. | [`GitHub`](https://github.com/underctrl-io/commandkit) • [`npm`](https://npm.im/commandkit) • [`Website`](https://commandkit.dev) |  
+| 4. | **Vectorizer** | Fast Node.js library for converting raster images to SVG. | [`GitHub`](https://github.com/neplextech/vectorizer) • [`npm`](https://npm.im/@neplex/vectorizer) |  
+| 5. | **Webview** | Robust cross-platform WebView library for Node.js, Deno, and Bun. | [`GitHub`](https://github.com/webviewjs/webview) • [`npm`](https://npm.im/@webviewjs/webview) |  
+| 6. | **Mediaplex** | Media transcoding utilities for Node.js. | [`GitHub`](https://github.com/androzdev/mediaplex) • [`npm`](https://npm.im/mediaplex) |  
 
-And there's more where that came from!
+---
 
-# Show Your Support
+## ☕ Support My Work  
 
-Consider supporting my work by becoming a member
+If you like what I do, consider supporting me:  
 
-<a href="https://www.buymeacoffee.com/twlite"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="200" height="50"></a> <a href="https://www.patreon.com/twlite"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron!" width="200" height="50"></a>
+<a href="https://www.buymeacoffee.com/twlite"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" height="40"></a> <a href="https://www.patreon.com/twlite"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" width="150" height="40"></a>
 
+---
 
-# 🌐 Connect with Me
+## 🌐 Let's Connect  
 
-You can email me at hello@twlite.dev or contact me below:
+- 📝 **Email:** hello@twlite.dev
+- 💬 **Discord:** [`@twlite`](https://discord.com/users/916316955772862475)
+- 🌐 **Website:** [`twlite.dev`](https://twlite.dev)
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/916316955772862475)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hellotwlite) 
-
-Feel free to reach out and connect!
-
-![Profile Visit Count](https://visitcount.itsvg.in/api?id=skdhg&icon=7&color=2)
+![Profile Views](https://komarev.com/ghpvc/?username=twlite&color=red) 
