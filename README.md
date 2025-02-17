@@ -10,6 +10,8 @@ I'm a developer from Nepal who enjoys building random projects—some useful, so
 | 4. | **Vectorizer** | Fast Node.js library for converting raster images to SVG. | [`GitHub`](https://github.com/neplextech/vectorizer) • [`npm`](https://npm.im/@neplex/vectorizer) |  
 | 5. | **Webview** | Robust cross-platform WebView library for Node.js, Deno, and Bun. | [`GitHub`](https://github.com/webviewjs/webview) • [`npm`](https://npm.im/@webviewjs/webview) |  
 | 6. | **Mediaplex** | Media transcoding utilities for Node.js. | [`GitHub`](https://github.com/androzdev/mediaplex) • [`npm`](https://npm.im/mediaplex) |  
+| 7. | **Yasumu** | Offline-first, self-hostable api testing application | [`GitHub`](https://github.com/yasumu-org/yasumu) • [`npm`](https://npm.im/yasumu) • [`Website`](https://yasumu.dev) |
+| 8. | **Use Macro** | `use-macro` allows you to execute functions at compile time and inline the output | [`GitHub`](https://github.com/twlite/use-macro) • [`npm`](https://npm.im/use-macro) |
 
 ---
 
