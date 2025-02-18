@@ -19,7 +19,8 @@ I'm a developer from Nepal who enjoys building random projects—some useful, so
 
 If you like what I do, consider supporting me:  
 
-<a href="https://www.buymeacoffee.com/twlite"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" height="40"></a> <a href="https://www.patreon.com/twlite"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" width="150" height="40"></a>
+<!-- <a href="https://www.buymeacoffee.com/twlite"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" height="40"></a> -->
+<a href="https://www.patreon.com/twlite"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" width="150" height="40"></a>
 
 ---
 
