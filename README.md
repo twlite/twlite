@@ -15,6 +15,12 @@ I'm a developer from 🇳🇵 Nepal who enjoys building random projects—some u
 
 ---
 
+## 😄 Things I'm Terrible at
+
+0. Coding 💻
+1. Video Games 🎮
+2. Piano 🎹
+
 ## ☕ Support My Work  
 
 If you like what I do, consider supporting me:  
