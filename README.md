@@ -4,7 +4,7 @@ I'm a self-taught developer from 🇳🇵 Nepal who enjoys building random proje
 
 | S.N.| Project | Description | Links |  
 |---|---------|--------| ----- |  
-| 1. | **[`Yasumu`](https://github.com/neplextech/yasumu)** | Offline-first, self-hostable api testing application | [`npm`](https://npm.im/yasumu) • [`Website`](https://yasumu.dev) |
+| 1. | **[`Yasumu`](https://github.com/neplextech/yasumu)** | Offline-first, free and open-source API laboratory for designing and testing api workflows | [`npm`](https://npm.im/yasumu) • [`Website`](https://yasumu.dev) |
 | 2. | **[`kitmap`](https://github.com/twlite/kitmap)** | A cross-platform CLI for tracking keyboard usage and generating beautiful heatmaps and statistics, built with Rust and React. | [`crates.io`](https://crates.io/crates/kitmap) |
 | 3. | **[`Discord Player`](https://github.com/androz2091/discord-player)** | A powerful framework for building advanced Discord music bots. | [`npm`](https://npm.im/discord-player) • [`Website`](https://discord-player.js.org) |  
 | 4. | **[`CommandKit`](https://github.com/underctrl-io/commandkit)** | 🚀 The discord.js meta-framework for building modern Discord applications (supports AI too). | [`npm`](https://npm.im/commandkit) • [`Website`](https://commandkit.dev) |  
