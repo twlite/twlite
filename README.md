@@ -5,14 +5,15 @@ I'm a self-taught developer from 🇳🇵 Nepal who enjoys building random proje
 | S.N.| Project | Description | Links |  
 |---|---------|--------| ----- |  
 | 1. | **[`Yasumu`](https://github.com/neplextech/yasumu)** | Offline-first, free and open-source API laboratory for designing and testing api workflows | [`npm`](https://npm.im/yasumu) • [`Website`](https://yasumu.dev) |
-| 2. | **[`kitmap`](https://github.com/twlite/kitmap)** | A cross-platform CLI for tracking keyboard usage and generating beautiful heatmaps and statistics, built with Rust and React. | [`crates.io`](https://crates.io/crates/kitmap) |
-| 3. | **[`Discord Player`](https://github.com/androz2091/discord-player)** | A powerful framework for building advanced Discord music bots. | [`npm`](https://npm.im/discord-player) • [`Website`](https://discord-player.js.org) |  
-| 4. | **[`CommandKit`](https://github.com/underctrl-io/commandkit)** | 🚀 The discord.js meta-framework for building modern Discord applications (supports AI too). | [`npm`](https://npm.im/commandkit) • [`Website`](https://commandkit.dev) |  
-| 5. | **[`CanvaUI`](https://github.com/twlite/canvaui)** | A custom React renderer that generates high-quality images from React components. | [`npm`](https://npm.im/canvaui) |
-| 6. | **[`vectorizer`](https://github.com/neplextech/vectorizer)** | Fast Node.js library for converting raster images to SVG. | [`npm`](https://npm.im/@neplex/vectorizer) |  
-| 7. | **[`webview`](https://github.com/webviewjs/webview)** | Robust cross-platform WebView library for Node.js, Deno, and Bun. | [`npm`](https://npm.im/@webviewjs/webview) |  
-| 8. | **[`directive-to-hof`](https://github.com/neplextech/directive-to-hof)** | Convert custom directives to higher order function call | [`npm`](https://npm.im/directive-to-hof) |
-| 9. | **[`use-macro`](https://github.com/neplextech/use-macro)** | `use-macro` allows you to execute functions at compile time and inline the output | [`npm`](https://npm.im/use-macro) |
+| 2. | **[`EcmaCraft`](https://ecmacraft.vercel.app)** | EcmaCraft allows you to easily develop Minecraft plugins in TypeScript. | [`npm`](https://npm.im/ecmacraft) • [`Website`](https://ecmacraft.vercel.app) |
+| 3. | **[`kitmap`](https://github.com/twlite/kitmap)** | A cross-platform CLI for tracking keyboard usage and generating beautiful heatmaps and statistics, built with Rust and React. | [`crates.io`](https://crates.io/crates/kitmap) |
+| 4. | **[`Discord Player`](https://github.com/androz2091/discord-player)** | A powerful framework for building advanced Discord music bots. | [`npm`](https://npm.im/discord-player) • [`Website`](https://discord-player.js.org) |  
+| 5. | **[`CommandKit`](https://github.com/underctrl-io/commandkit)** | 🚀 The discord.js meta-framework for building modern Discord applications (supports AI too). | [`npm`](https://npm.im/commandkit) • [`Website`](https://commandkit.dev) |  
+| 6. | **[`CanvaUI`](https://github.com/twlite/canvaui)** | A custom React renderer that generates high-quality images from React components. | [`npm`](https://npm.im/canvaui) |
+| 7. | **[`vectorizer`](https://github.com/neplextech/vectorizer)** | Fast Node.js library for converting raster images to SVG. | [`npm`](https://npm.im/@neplex/vectorizer) |  
+| 8. | **[`webview`](https://github.com/webviewjs/webview)** | Robust cross-platform WebView library for Node.js, Deno, and Bun. | [`npm`](https://npm.im/@webviewjs/webview) |  
+| 9. | **[`directive-to-hof`](https://github.com/neplextech/directive-to-hof)** | Convert custom directives to higher order function call | [`npm`](https://npm.im/directive-to-hof) |
+| 10. | **[`use-macro`](https://github.com/neplextech/use-macro)** | `use-macro` allows you to execute functions at compile time and inline the output | [`npm`](https://npm.im/use-macro) |
 
 ---
 
