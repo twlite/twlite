@@ -1,6 +1,6 @@
 # Hey, I'm Twilight.
 
-![Twilight](https://raw.githubusercontent.com/twlite/twlite.dev/refs/heads/main/public/banner.webp)
+![Twilight](https://raw.githubusercontent.com/twlite/twlite/refs/heads/main/public/banner.webp)
 
 I'm a self-taught software engineer from Nepal. I've been writing code since 2018, mostly because I enjoy figuring out how things work.
 
