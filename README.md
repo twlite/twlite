@@ -1,5 +1,7 @@
 # Hey, I'm Twilight.
 
+![Twilight](https://raw.githubusercontent.com/twlite/twlite.dev/refs/heads/main/public/banner.webp)
+
 I'm a self-taught software engineer from Nepal. I've been writing code since 2018, mostly because I enjoy figuring out how things work.
 
 I spend a lot of my time building developer tools, messing with runtimes, and contributing to open source. TypeScript and Rust are my usual picks.
