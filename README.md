@@ -1,43 +1,35 @@
-# Personal Website
+# Hey, I'm Twilight.
 
-Source code for [twlite.dev](https://twlite.dev), my personal website and blog.
+I'm a self-taught software engineer from Nepal. I've been writing code since 2018, mostly because I enjoy figuring out how things work.
 
-## Overview
+I spend a lot of my time building developer tools, messing with runtimes, and contributing to open source. TypeScript and Rust are my usual picks.
 
-This is a Next.js site for:
+I'm also a co-founder of [Neplex](https://neplextech.com), where we're building software products and open-source tools.
 
-- Short personal profile and links
-- Blog posts written in MDX
-- Project and wall-of-fame pages
-- A generated photograph gallery
-- SEO metadata, sitemap, robots, and dynamic Open Graph images
+### Things I've built
 
-## Content
+A few projects I've worked on over the years:
 
-Blog posts live in `src/content/blog`. They are compiled at build/dev startup into generated TypeScript modules under `src/generated`, so page rendering does not read markdown files at request time.
+- [**Webview**](https://github.com/webviewjs/webview): Native webviews for Node.js, Bun, and Deno.
+- [**Yasumu**](https://yasumu.dev): An open-source API development and testing tool.
+- [**CommandKit**](https://commandkit.dev): A framework for building Discord bots.
+- [**use-macro**](https://github.com/neplextech/use-macro): Compile-time function execution for JavaScript and TypeScript.
+- [**OpenPrinter**](https://oppa.neplex.dev): Connecting cloud applications to local printers.
+- [**EcmaCraft**](https://github.com/twlite/ecmacraft): Writing Minecraft plugins in TypeScript, because apparently Java wasn't enough.
 
-Photographs live in `public/photographs`. The gallery is also generated into `src/generated/photographs.ts` at build/dev startup.
+There's more on my [projects page](https://twlite.dev/projects), including some experiments that probably shouldn't have made it past midnight.
 
-## Photograph Metadata
+### Support my work
 
-Photos can contain sensitive EXIF metadata such as location and device information. Before publishing new photographs, strip metadata:
+Most of my projects are open source. If you've found something useful and feel like supporting what I do, you can:
 
-```bash
-pnpm photos:erase-metadata
-```
+- [Buy me a momo](https://buymemomo.com/twilight)
+- [Support me on Patreon](https://patreon.com/twlite)
 
-The script uses `sharp` and overwrites files in `public/photographs`.
+No pressure, using my projects is already appreciated.
 
-## Commands
+### Elsewhere
 
-```bash
-pnpm dev
-pnpm build
-pnpm start
-pnpm lint
-pnpm photos:erase-metadata
-```
+[Website](https://twlite.dev) · [Blog](https://twlite.dev/blogs) · [Projects](https://twlite.dev/projects) · [Twitter](https://twitter.com/hellotwlite) · [Email](mailto:hello@twlite.dev)
 
-## Notes
-
-This project uses Next.js 16. Read the local Next docs in `node_modules/next/dist/docs/` before making framework-level changes.
+<sub>Probably procrastinating on something right now.</sub>
