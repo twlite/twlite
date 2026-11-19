@@ -9,17 +9,24 @@ export const projects: ContentCardProps[] = [
       "Yasumu is a modern, free and open-source API laboratory for designing and testing API workflows.",
   },
   {
-    title: "CommandKit",
-    url: "https://commandkit.dev",
-    image: "https://github.com/commandkit.png",
+    title: "Remedia",
+    url: "https://remedia.twlite.dev",
+    image: "/remedia.png",
     description:
-      "The discord.js meta-framework with features such as AI-powered command handler, analytics, feature flags, and more",
+      "A high-performance audio engine built in Rust, powered by FFmpeg. Designed for low-latency audio processing, real-time DSP, seamless crossfading, and Discord voice streaming. Runs natively inside Node.js or as a standalone server, with a unified API and extensible plugin system.",
   },
   {
     title: "@webviewjs/webview",
     url: "https://github.com/webviewjs/webview",
     image: "https://github.com/webviewjs.png",
     description: "Robust cross-platform webview library for Node/Deno/Bun",
+  },
+  {
+    title: "CommandKit",
+    url: "https://commandkit.dev",
+    image: "https://github.com/commandkit.png",
+    description:
+      "The discord.js meta-framework with features such as AI-powered command handler, analytics, feature flags, and more",
   },
   {
     title: "OPPA",
