@@ -45,7 +45,7 @@ export const projects: ContentCardProps[] = [
     url: "https://discord-player.js.org",
     image: null,
     description:
-      "Discord Player is a robust framework for developing Discord Music bots using JavaScript and TypeScript.",
+      "A powerful, high-performance music framework for Discord bots, featuring seamless playback, advanced audio filters, crossfading, and an extensible plugin system, powered by Remedia.",
   },
   {
     title: "@neplex/vectorizer",
